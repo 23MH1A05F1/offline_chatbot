@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/62b7d972-fbd6-4964-a1c7-b209d170b83c)# offline_chatbot
+# offline_chatbot
 Works Completely offline
 
 In many places, people still don’t have reliable internet — but they need smart tools like chatbots for learning, support, or help. Most AI chatbots today only work online, which makes them useless when there’s no internet.
