@@ -30,6 +30,9 @@ KEY FEATURES :
  Modular Architecture – Easily upgradable (model, UI, sync logic)
 
 ![image](https://github.com/user-attachments/assets/33ca7906-a543-40ec-9657-26636e5f9eb6)
+
+FRONTEND-OUTPUT
+
 ![image](https://github.com/user-attachments/assets/b966f52a-a052-485b-95c0-71c3d05db65b)
 
 
