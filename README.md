@@ -31,6 +31,8 @@ KEY FEATURES :
 
 ![image](https://github.com/user-attachments/assets/33ca7906-a543-40ec-9657-26636e5f9eb6)
 
+![WhatsApp Image 2025-07-11 at 20 51 46_c7ce76cc](https://github.com/user-attachments/assets/ba92fee9-8f21-426a-a6cb-032cfc04e55c)
+
 FRONTEND-OUTPUT
 
 ![image](https://github.com/user-attachments/assets/b966f52a-a052-485b-95c0-71c3d05db65b)
